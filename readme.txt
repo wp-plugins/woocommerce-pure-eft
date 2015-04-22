@@ -17,6 +17,7 @@ This plugin is very straight forward. It provides a checkout option for a custom
 You can then submit this information through your normal means of accepting EFTs.
 
 ## Donate
+If you like this plugin, please consider donating. It will help me continue working on this plugin, to add more features. Plus it will make me very happy!
 [![Donate Now](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]
 (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LJAT6WCWJCQUW "Donate Now")
 
@@ -43,8 +44,3 @@ Please let me know.
 
 = 1.0 =
 * First release!
-
-== Donate ==
-
-If you like this plugin, please consider donating. It will help me continue working on this plugin, to add more features. Plus it will make me very happy!
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LJAT6WCWJCQUW)
