@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Pure EFT Gateway
 Plugin URI: http://webunraveling.com
 Description: Extends WooCommerce. Provides an Electronic Funds Transfer (EFT) gateway.
-Version: 1.0.0
+Version: 1.0
 Author: Jason Raveling
 Author URI: http://webunraveling.com/
 License: GPL2
